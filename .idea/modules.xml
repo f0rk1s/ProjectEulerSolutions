@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A Thousand Digit Fibonacci Number/A Thousand Digit Fibonacci Number.iml" filepath="$PROJECT_DIR$/A Thousand Digit Fibonacci Number/A Thousand Digit Fibonacci Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Amicable Numbers/Amicable Numbers.iml" filepath="$PROJECT_DIR$/Amicable Numbers/Amicable Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Counting Sundays/Counting Sundays.iml" filepath="$PROJECT_DIR$/Counting Sundays/Counting Sundays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial Digit Sum/Factorial Digit Sum.iml" filepath="$PROJECT_DIR$/Factorial Digit Sum/Factorial Digit Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Highly Divisible Triangular Number/Highly Divisible Triangular Number.iml" filepath="$PROJECT_DIR$/Highly Divisible Triangular Number/Highly Divisible Triangular Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Large Sum/Large Sum.iml" filepath="$PROJECT_DIR$/Large Sum/Large Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largest Palindrome Product/Largest Palindrome Product.iml" filepath="$PROJECT_DIR$/Largest Palindrome Product/Largest Palindrome Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largest Prime Factor/Largest Prime Factor.iml" filepath="$PROJECT_DIR$/Largest Prime Factor/Largest Prime Factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largest Product in a Grid/Largest Product in a Grid.iml" filepath="$PROJECT_DIR$/Largest Product in a Grid/Largest Product in a Grid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largest Product in a Series/Largest Product in a Series.iml" filepath="$PROJECT_DIR$/Largest Product in a Series/Largest Product in a Series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lattice Paths/Lattice Paths.iml" filepath="$PROJECT_DIR$/Lattice Paths/Lattice Paths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lexicographic Permutations/Lexicographic Permutations.iml" filepath="$PROJECT_DIR$/Lexicographic Permutations/Lexicographic Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest Collatz Sequence/Longest Collatz Sequence.iml" filepath="$PROJECT_DIR$/Longest Collatz Sequence/Longest Collatz Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum Path Sum I/Maximum Path Sum I.iml" filepath="$PROJECT_DIR$/Maximum Path Sum I/Maximum Path Sum I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiplies of 3 or 5/Multiplies of 3 or 5.iml" filepath="$PROJECT_DIR$/Multiplies of 3 or 5/Multiplies of 3 or 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Names Scores/Names Scores.iml" filepath="$PROJECT_DIR$/Names Scores/Names Scores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Non-Abundant Sums/Non-Abundant Sums.iml" filepath="$PROJECT_DIR$/Non-Abundant Sums/Non-Abundant Sums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number Letter Counts/Number Letter Counts.iml" filepath="$PROJECT_DIR$/Number Letter Counts/Number Letter Counts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Power Digit Sum/Power Digit Sum.iml" filepath="$PROJECT_DIR$/Power Digit Sum/Power Digit Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem 7/Problem 7.iml" filepath="$PROJECT_DIR$/Problem 7/Problem 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectEuler.iml" filepath="$PROJECT_DIR$/.idea/ProjectEuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quadratic Primes/Quadratic Primes.iml" filepath="$PROJECT_DIR$/Quadratic Primes/Quadratic Primes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reciprocal Cycles/Reciprocal Cycles.iml" filepath="$PROJECT_DIR$/Reciprocal Cycles/Reciprocal Cycles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smallest Multiple/Smallest Multiple.iml" filepath="$PROJECT_DIR$/Smallest Multiple/Smallest Multiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum Square Difference/Sum Square Difference.iml" filepath="$PROJECT_DIR$/Sum Square Difference/Sum Square Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Summation of Primes/Summation of Primes.iml" filepath="$PROJECT_DIR$/Summation of Primes/Summation of Primes.iml" />
+    </modules>
+  </component>
+</project>
